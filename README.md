@@ -41,8 +41,6 @@ I am committed to:
 
 ---
 
----
-
 ## 📂 Explore My Work  
 
 Here are some highlighted projects showcasing my expertise in backend architecture, infrastructure, and cloud-native solutions:  
