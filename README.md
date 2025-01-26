@@ -23,55 +23,41 @@ I specialize in building **cloud-native distributed systems** and **data pipelin
 - **Orchestration & Containers**: Kubernetes, Docker Swarm  
 - **Monitoring & Observability**: Prometheus, Grafana, ELK/EFK Stack  
 
-### **Processes & Best Practices**  
-- **Agile Frameworks**: Scrum, Kanban  
-- **Design Principles**: DDD, TDD, SOLID, Clean Code  
-- **Data Processing Patterns**: Lambda Architecture, Kappa Architecture  
-
 ---
 
 ## 🌱 Philosophy  
 
-I am committed to:  
-- **Architecting Resilient Systems**: Designing backend and data solutions that scale and recover gracefully under load.  
-- **Data-Driven Solutions**: Developing pipelines and architectures for real-time and batch data processing to empower decision-making.  
-- **Cost Efficiency**: Ensuring financial sustainability through intelligent resource management and FinOps practices.  
-- **Continuous Improvement**: Staying ahead with the latest technologies, tools, and methodologies to evolve solutions.  
-- **Mentorship & Collaboration**: Fostering growth within teams by sharing knowledge, providing guidance, and promoting a collaborative culture.  
+- **Resilient Systems**: Designing scalable, fault-tolerant backend and data solutions.  
+- **Data-Driven Solutions**: Building real-time and batch pipelines to enable insights.  
+- **Cost Efficiency**: Optimizing resources with smart FinOps practices.  
+- **Continuous Improvement**: Adopting the latest tools and technologies.  
+- **Team Growth**: Mentoring and fostering collaboration for shared success.  
 
 ---
 
 ## 📂 Explore My Work  
 
+## 🌟 Explore My Work  
+
 Here are some highlighted projects showcasing my expertise in backend architecture, infrastructure, and cloud-native solutions:  
 
 ### 1. [**LLM RAG - Milvus and Slack**](https://github.com/DmytroKrynytsyn/rag1)  
-A project integrating Milvus, Slack API, and LangChain to implement Retrieval-Augmented Generation (RAG) for knowledge management. This showcases the use of Python, FastAPI, and modern cloud technologies like AWS, Docker, and Terraform for scalable and efficient backend solutions.  
-
----
+Integrating Milvus, Slack API, and LangChain to implement Retrieval-Augmented Generation (RAG) for knowledge management.  
 
 ### 2. [**Linux Server Monitoring: Grafana + Prometheus**](https://github.com/DmytroKrynytsyn/metrics1)  
-Built a robust server monitoring system using Prometheus for metrics collection and Grafana for visualization. The project employs AWS cloud infrastructure with Docker, Terraform, and Ansible for configuration and automation.  
-
----
+Robust server monitoring system with Prometheus for metrics collection and Grafana for visualization.  
 
 ### 3. [**EFK Stack on AWS with Terraform & Ansible**](https://github.com/DmytroKrynytsyn/logs1)  
-Implemented a centralized log management system using the EFK (Elasticsearch, Fluentd, Kibana) stack to efficiently handle large-scale infrastructure logs. This project demonstrates an enterprise-grade architecture automated via AWS, Terraform, and Ansible, showcasing the advantages of EFK over the traditional ELK stack.  
-
----
+Centralized log management system using EFK (Elasticsearch, Fluentd, Kibana) for large-scale infrastructure logs.  
 
 ### 4. [**Redis Cluster, High Availability (HA) Architecture**](https://github.com/DmytroKrynytsyn/redis_cluster)  
-Designed and configured a Redis cluster with master-slave architecture to meet high availability (HA) and scalability requirements. The project highlights the use of Terraform, Terragrunt, and modular Ansible roles for provisioning and automation, ensuring fault tolerance and reliability.  
-
----
+Designed and configured a Redis cluster with master-slave architecture for HA and scalability.  
 
 ### 5. [**Kafka Cluster, High Availability (HA) Architecture (KRaft Mode)**](https://github.com/DmytroKrynytsyn/kafka_cluster)  
-Provisioned and configured a Kafka cluster running in KRaft Mode (Raft Protocol) to eliminate Zookeeper dependency. This architecture is tailored for enterprise-grade reliability, leveraging Terraform, Terragrunt, and Ansible for automation while maintaining modular and reusable infrastructure configurations.  
-
----
+Provisioned a Kafka cluster running in KRaft Mode, eliminating Zookeeper dependency with enterprise-grade reliability.  
 
 ### 6. [**Multi-Master Kubernetes Cluster on AWS**](https://github.com/DmytroKrynytsyn/devops/tree/master/kcluster)  
-Deployed a multi-master Kubernetes cluster on AWS to ensure fault tolerance and scalability for high-availability workloads. The project integrates Terraform, Ansible, and Ansible Dynamic Inventory to streamline infrastructure management and automation.  
+Deployed a multi-master Kubernetes cluster on AWS for fault tolerance and scalability.  
 
 ---
 
@@ -99,4 +85,4 @@ Deployed a multi-master Kubernetes cluster on AWS to ensure fault tolerance and 
 
 
 
-### Let’s build reliable and scalable systems together! 🚀
+# Let’s build reliable and scalable systems together! 🚀
